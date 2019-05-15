@@ -1,8 +1,8 @@
 <?php
 $databaseServerName = 'localhost';
-$databaseUsername = 'mdaswani';
-$databasePassword = '520360';
-$theDatabase = 'mdaswani';
+$databaseUsername = 'userName';
+$databasePassword = '';
+$theDatabase = 'databaseName';
 
 //connection to database
 
