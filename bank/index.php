@@ -21,7 +21,7 @@ include(INCLUDE_PATH . '/staff_header.php');
 <div class = "main-content">
 
   <h2> Home </h2>
-  <p> Welcome to the beautiful bank app </p>
+  <p> Welcome to the bank app </p>
 
 </div>
 </main>
